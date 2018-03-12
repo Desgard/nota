@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![](https://img.shields.io/badge/iPython-6.2.1-brightgreen.svg)
 
+![](logo.png)
+
 这是个人对于计算机科学及相关领域学习的个人记录笔记整理脱水版，其 *Jupyter Notebook* 服务搭建在个人的云服务器上，可随时进行记录。其领域包括以下几类：
 
 * ML or DL
