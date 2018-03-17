@@ -12,6 +12,7 @@
 * iOS 学习记录（逆向工程及[源码 Probe]()手稿)
 * Python 开发实战
 * 前端领域开发实践（*React.js*, *Vue.js*, *React Native*, *Weapp 微信小程序*）
+* 面试知识笔记
 
 ## 目录
 
@@ -23,6 +24,27 @@
 * *iOS*日常学习小记录
   * [dyld 过程](https://github.com/Desgard/nota/blob/master/iOS_note/ch01_dyld_process.ipynb)
   
+## 本地环境搭建
+
+安装(`sudo pip3 install virtualenv`)并使用 *Virtualenv* 即可完成搭建，下面是第一次搭建环境的流程
+
+```bash
+$ git clone https://github.com/Desgard/nota.git & cd nota
+$ virtualenv venv
+$ source venv/bin/activity
+$ pip -r requirements.txt
+$ jupyter notebook 
+
+# optional params: --port [port] --ip *.*.*.*
+```
+
+使用时：
+
+ ```bash
+ $ source venv/bin/activity
+ $ jupyter notebook
+ ```
+
 ## 勘误与说明
 
 可在 **issue** 区随时与我交流，该 Repo 仅用于个人学习笔记同步用，不做任何的发表和博客同步。
