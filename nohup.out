@@ -1,0 +1,46 @@
+[I 08:17:28.640 NotebookApp] Writing notebook server cookie secret to /run/user/500/jupyter/notebook_cookie_secret
+[I 08:17:28.906 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.0
+[I 08:17:28.908 NotebookApp] Serving notebooks from local directory: /home/ubuntu/nota
+[I 08:17:28.908 NotebookApp] 0 active kernels
+[I 08:17:28.908 NotebookApp] The Jupyter Notebook is running at:
+[I 08:17:28.908 NotebookApp] http://0.0.0.0:8888/
+[I 08:17:28.908 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:17:28.909 NotebookApp] No web browser found: could not locate runnable browser.
+[I 08:17:47.173 NotebookApp] 302 GET /tree? (101.227.12.253) 1.17ms
+[I 08:18:01.778 NotebookApp] 302 POST /login?next=%2Ftree%3F (101.227.12.253) 1.15ms
+[I 08:18:10.526 NotebookApp] Kernel started: 8fe9b184-c5cd-4457-a9a7-309e9b1ea238
+[I 08:18:11.071 NotebookApp] Adapting to protocol v5.1 for kernel 8fe9b184-c5cd-4457-a9a7-309e9b1ea238
+[I 08:20:10.538 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:40:10.594 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:42:10.553 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:44:10.586 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:46:10.596 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:48:10.575 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:50:10.566 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:52:10.565 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:54:10.658 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:56:10.579 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 08:58:10.570 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:00:10.574 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:02:10.574 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:04:10.575 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:06:10.574 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:08:10.573 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:10:10.592 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:12:10.585 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:24:10.613 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:26:10.592 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:30:10.605 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:32:10.599 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:34:10.607 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:36:10.686 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:38:10.611 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:40:10.945 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:44:10.629 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:46:10.619 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:48:10.617 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:50:09.552 NotebookApp] 302 GET / (114.215.45.101) 0.62ms
+[I 09:50:10.645 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:52:10.634 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:54:10.634 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
+[I 09:56:10.626 NotebookApp] Saving file at /gua_interview_note/ch01_data_structure_and_algorithm_1.ipynb
